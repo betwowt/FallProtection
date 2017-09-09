@@ -1,0 +1,5 @@
+name: FallProtection
+version: ${project.version}
+main: com.github.betwowt.FallProtection
+authors: [betwowt]
+description: 这是一个摔落保护插件
